@@ -76,7 +76,7 @@ current_focus = {
   <img height="165" src="https://streak-stats.demolab.com/?user=muhammadsohaib796&background=000000&border=2A2A2A&stroke=2A2A2A&ring=F0B429&fire=F0B429&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=F0B429&sideLabels=CFCFCF&dates=8A8A8A&border_radius=12" alt="GitHub contribution streak for muhammadsohaib796"/>
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsohaib796&bg_color=000000&color=CFCFCF&line=F0B429&point=F5F5F5&area=true&area_color=F0B429&hide_border=false&border_color=2A2A2A&radius=12" alt="Contribution activity graph for muhammadsohaib796"/>
+<img width="100%" src="https://raw.githubusercontent.com/muhammadsohaib796/muhammadsohaib796/output/github-snake-dark.svg" alt="Contribution graph for muhammadsohaib796 with a gold snake eating the contribution squares"/>
 
 ## Connect with me
 
